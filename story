@@ -101,7 +101,11 @@ show jack a_2 at center, faceright with dissolve
 "What a fucking jerk."
 hide jack with dissolve
 show tori b_0 at centerright, faceleft with dissolve
-"Once the class was over, Irene blinked at me and went straight into
+"Once the class was over, Irene blinked at me and went straight to the toilets, as planned."
+show cornelia b_0 at centerleft, faceright 
+show allison a_0 at center, faceright
+with dissolve
+"And Cornelia was right there, next to Allison."
 
 
 
