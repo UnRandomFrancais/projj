@@ -82,4 +82,15 @@ tori b_2 "Yeah, nevermind."
 tori "Anyway, I need some energy to do such, and since I still didn't really used it yet from my own body, I have no ideas about how much shit I can fix."
 irene "I see ..."
 tori "The doll looked like she was able to use as much magic as she wanted. But I can't. Or atleast, not yet."
+irene "So, what is the plan ?"
+tori "I'll give Ms Davis's class, then, wait me at toilets. I'll give some work in class and will start to make up a plan of action."
+irene b_0 "Great !"
+hide tori
+hide irene
+with easeoutright
+scene black with fade
+"I taught the lesson. But it was far from what I was remembering in Ms Davis memories."
+"{q}Vanessa{/q} was fully listening for once, working seriously and asking questions."
+"Meanwhile, {q}Tori{/q} at her side, couldn't stop being direspectful and insulting anyone standing around."
+"Even with the reputation I have, I would have never done half of what he did during this class. What a fucking jerk."
 
