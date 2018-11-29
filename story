@@ -62,3 +62,11 @@ carrie "..."
 hide carrie with easeoutright
 think "This idiot is absolutely insane."
 hide jack with easeoutright
+show tori a_2 at center, faceright with dissolve
+tori "Got to know what this moron is planning."
+show irene a_0 at centerleft, faceright with easeinleft
+irene "Hello {q}Ms Davis{/q} !"
+show tori b_0 at faceleft
+tori "Oh, hey Irene !"
+
+
