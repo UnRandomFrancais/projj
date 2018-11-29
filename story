@@ -232,7 +232,14 @@ pause 1
 "..."
 think "No time to waste."
 show pentagram at center
+show vanessa a_3
 tori "Remember who you were."
+hide pentagram
+vanessa "..!"
+kyoko "Welcome back Vanessa."
+
+
+
 
 
 
