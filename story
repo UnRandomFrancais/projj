@@ -55,3 +55,10 @@ jack "That will totally legitimate the moment when I'll get back to Holly ..."
 carrie a_7 "Y-You ..."
 jack b_3 "What is wrong Ms Russell ? A problem ?"
 carrie "..."
+carrie "I-I think i'll get to class ..."
+jack a_0 "Yeah, good idea. For once you are early."
+jack "And maybe that will clean up these foolish ideas you've got."
+carrie "..."
+hide carrie with easeoutright
+think "This idiot is absolutely insane."
+hide jack with easeoutright
