@@ -261,7 +261,7 @@ vanessa a_3 "..."
 kyoko "I managed to got out, and I also fucking managed to give you back your memories because I know you would have hate being this twerp !"
 kyoko "And I also did that while the new Vanessa is nice with everyone !"
 kyoko "So choose wisely your words, and fucking think twice before answering that, okay ?"
-"I saw some people looking at us, I don't think Kyoko is the kind of screaming at people."
+"I saw some people looking at us strangely, I don't think Kyoko would be screaming at people."
 
 
 
