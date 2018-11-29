@@ -106,7 +106,17 @@ show cornelia b_0 at centerleft, faceright
 show allison a_0 at center, faceright
 with dissolve
 "And Cornelia was right there, next to Allison."
-
+show toriGhost a_0 at centerright, faceleft with dissolve
+hide tori
+show sandra b_2 at centerright, faceleft
+possess tori cornelia b_0
+pause 1
+"It feels good to get back into a body much younger ..."
+sandra b_8 "Huh ?"
+allison a_2 "Everything is okay Ms Davis ?"
+sandra "Y-Yeah ... I guess ..."
+allison a_0 "You seemed to be a bit away !"
+sandra b_0 "Haha, yes ... I must work too much !"
 
 
 
