@@ -25,3 +25,15 @@ show tori b_2 at center, faceright
 "You are also a kid after all, deeply inside of you."
 show tori b_2 at faceleft
 tori "John ! I'm out ! Move your ass to school, there won't be any reminder !"
+"Hear it or not, I'm out."
+hide tori with easeoutright
+scene black with fade
+"The good thing was that I was now able to drive a car."
+"Finally some advantages after that fucking hell ..."
+scene bg school passage day
+outfit carrie uniform2
+show jack a_0 at center, faceright
+show carrie b_6 at centerright, faceleft
+"I had the disgusting surprise to see fucking Mallory in my body."
+"Just thinking that makes me sick."
+"I faked that I was reading a book in Ms Davis bag to listen up their conversation ..."
