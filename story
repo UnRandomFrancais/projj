@@ -117,6 +117,28 @@ allison a_2 "Everything is okay Ms Davis ?"
 sandra "Y-Yeah ... I guess ..."
 allison a_0 "You seemed to be a bit away !"
 sandra b_0 "Haha, yes ... I must work too much !"
+think "This shit excuse again ... I guess I was roleplaying her well then."
+tori "Allison, I'll go to toilets, I come back in few minutes, okay ?"
+allison "Sure Irene !"
+hide tori with easeoutright
+scene bg school stairs day
+show tori b_2 at centerleft, faceright with easeinleft
+"Irene must be already there ..."
+with hpunch
+show jack blush b_6 at center, faceleft with easeinright
+jack "Get out of my way."
+hide jack with easeoutleft
+"I let him go. He is lucky that I have important stuff to do right now, and that I gotta keep that body safe."
+"You gonna get what you deserve later, fucking asshole."
+hide tori with easeoutright
+scene bg school bathroom day
+show irene b_2 at centerright, faceleft
+show tori b_10 at centerleft, faceright
+tori "Irene ? You are okay ?"
+irene "I ... I guess ..."
+irene a_6 "But wait ! You called me Irene ? You ..."
+tori "Yeah, that's me. I got your body. What happened ? You are shaking !"
+irene a_5 "I ... I went here and I surprised Jack fingering himself in your body ..."
 
 
 
