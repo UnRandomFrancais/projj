@@ -236,9 +236,19 @@ show vanessa a_3
 tori "Remember who you were."
 hide pentagram
 vanessa "..!"
-kyoko "Welcome back Vanessa."
-
-
+tori "Welcome back Vanessa."
+vanessa "Kyoko ? What did you made to me ? I feel like I'm Vanessa right now !"
+tori a_8 "You are Vanessa, moron !"
+vanessa a_6 "Really ? I always knew I was a hottie ... But I also feel alpha !"
+vanessa a_3 "Wait ! Maybe you used an alien device to make me think so ? But why would you do that !"
+vanessa "Unless you are also an alien !"
+tori "Fuck off !"
+show pentagram at center
+tori "Clean up every thought of Kiyoshi, and just be Vanessa !"
+hide pentagram
+think "Fuck this ! I have no mana to waste !"
+vanessa "K-Kyoko ..."
+vanessa a_0 "Wait ! What am I doing with you."
 
 
 
