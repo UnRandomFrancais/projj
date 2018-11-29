@@ -102,3 +102,8 @@ show jack a_2 at center, faceright with dissolve
 hide jack with dissolve
 show tori b_0 at centerright, faceleft with dissolve
 "Once the class was over, Irene blinked at me and went straight into
+
+
+
+
+
