@@ -15,3 +15,6 @@ tori b_0 "I'm gonna sleep right now. Don't do anything crazy, right ?"
 carrie b_7 "Don't worry, he is way more mature than you might think."
 tori b_0 "Have a nice evening."
 hide tori with easeoutleft
+"Yeah, enjoy this evening ... That'll be your last as Vanessa."
+title "The next day ..."
+scene bg main kitchen day
