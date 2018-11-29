@@ -132,7 +132,7 @@ hide jack with easeoutleft
 "You gonna get what you deserve later, fucking asshole."
 hide tori with easeoutright
 scene bg school bathroom day
-show irene b_2 at centerright, faceleft
+show irene blush b_2 at centerright, faceleft
 show tori b_10 at centerleft, faceright
 tori "Irene ? You are okay ?"
 irene "I ... I guess ..."
@@ -142,6 +142,43 @@ irene a_5 "I ... I went here and I surprised Jack fingering himself in your body
 with vpunch
 tori b_10 "SERIOUSLY ?"
 irene "Y-Yeah ... He threatened me ... You ... Your body is goddamn scary when the one inside is angered ..."
+tori b_0 "..."
+think "That's why he was angry I guess ..."
+tori "He'll gonna get what he deserve later ..."
+irene a_6 "T-Tori ... He ... He ... How can you be so calm ..."
+tori "I was close to stay stuck inside of the doll for eternity. That helps to put things in perspectives."
+irene "..."
+tori b_0 "You want to get back in your body, right ?"
+irene "Yes ... please ..."
+irene "By the way, you really need to be inside ?"
+tori "Sorry, but I'm only a beginner. I can only bodyswap by kissing for now."
+irene "..."
+irene "That's fine. It's not a matter for me."
+show tori b_7 at center, with move
+swap tori a_0 : b_1, irene b_12 : b_12
+irene "W-Wow ..."
+tori "I'm inside of Yui now ..."
+show tori blush b_2
+show irene b_1:
+  linear 0.8 xalign 0.55
+irene "Th-Thank you Tori ! I thought I wouldn't ever had a way to come back from there ..."
+"I felt her heavy boobs colliding with Yui's small body, that was a shock."
+tori "I-It's okay Irene ! I've promised you !"
+irene "But still ! You've did it !"
+show irene b_0 at center with move
+irene "You gonna get your body back ?"
+tori b_1 "No ... I must get Vanessa back before."
+irene b_12 "You ... You won't even get your body first ?"
+tori "I'd like to, but she has to know. She is my friend, I must get her back first."
+irene "Y-You ..."
+irene "And also ... How about Cornelia ? Is she inside of me ?"
+tori b_2 "That's a fucking good question !"
+tori "I have no idea to be honest ..."
+irene b_5 "..."
+tori "She is either inside of you, either inside of Yui's body."
+irene b_0 "And how do we know ?"
+tori "To get Vanessa back, I'm gonna leave Yui's body. If it stands and talk, it's Cornelia. If she it doesn't react, she is with you."
+irene "..."
 
 
 
