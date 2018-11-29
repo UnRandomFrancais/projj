@@ -68,5 +68,18 @@ show irene a_0 at centerleft, faceright with easeinleft
 irene "Hello {q}Ms Davis{/q} !"
 show tori b_0 at faceleft
 tori "Oh, hey Irene !"
-
+irene "You are okay ?"
+tori "Something is weird with me ... I almost became fully Ms Davis, but I guess I'm fine now."
+irene b_3 "..."
+irene b_3 "You think you are up to fix things ?"
+tori b_3 "I'll be honest : I can, but I have no idea how long it will take."
+irene b_2 "Oh ? How so ?"
+tori "I think you can understand that casting spells needs some energy ?"
+irene "It depends, from a movie to an other."
+tori b_8 "Oh ? What kind of movie ?"
+irene b_1 "I'm not sure it's the best timing to talk about that ..."
+tori b_2 "Yeah, nevermind."
+tori "Anyway, I need some energy to do such, and since I still didn't really used it yet from my own body, I have no ideas about how much shit I can fix."
+irene "I see ..."
+tori "The doll looked like she was able to use as much magic as she wanted. But I can't. Or atleast, not yet."
 
