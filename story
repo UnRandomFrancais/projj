@@ -256,14 +256,14 @@ tori "You remember when you got swapped in the park ?"
 vanessa "Like i wouldn't ! You fucking whore ! Why did you even made that !"
 tori b_7 "I didn't meant to ..."
 vanessa "Really ? That's fucking convincing !"
-kyoko a_8 "Listen up idiot ! I got close to spend the eternity inside of a fucking puppet while nobody would have never suspect anything !"
-kyoko "Do you have any idea how it feels like to be silenced and watching the world and the people you know getting fucked up one by one ?"
+tori a_8 "Listen up idiot ! I got close to spend the eternity inside of a fucking puppet while nobody would have never suspect anything !"
+tori "Do you have any idea how it feels like to be silenced and watching the world and the people you know getting fucked up one by one ?"
 vanessa a_3 "..."
-kyoko "I managed to got out, and I also fucking managed to give you back your memories because I know you would have hate being this twerp !"
-kyoko "And I also did that while the new Vanessa is nice with everyone !"
-kyoko "So choose wisely your words, and fucking think twice before answering that, okay ?"
+tori "I managed to got out, and I also fucking managed to give you back your memories because I know you would have hate being this twerp !"
+tori "And I also did that while the new Vanessa is nice with everyone !"
+tori "So choose wisely your words, and fucking think twice before answering that, okay ?"
 "I saw some people looking at us strangely, I don't think Kyoko would be screaming at people."
-
+"She stared at me for long seconds."
 
 
 
