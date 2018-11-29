@@ -244,11 +244,24 @@ vanessa a_3 "Wait ! Maybe you used an alien device to make me think so ? But why
 vanessa "Unless you are also an alien !"
 tori "Fuck off !"
 show pentagram at center
-tori "Clean up every thought of Kiyoshi, and just be Vanessa !"
+tori "Clean up every thought of Kiyoshi, and just be Vanessa ! And also remember what happened to you !"
 hide pentagram
+tori b_7
 think "Fuck this ! I have no mana to waste !"
 vanessa "K-Kyoko ..."
 vanessa a_0 "Wait ! What am I doing with you."
+tori "Vanessa, I'm not Kyoko, I'm Tori."
+vanessa "Whaaat ?"
+tori "You remember when you got swapped in the park ?"
+vanessa "Like i wouldn't ! You fucking whore ! Why did you even made that !"
+tori b_7 "I didn't meant to ..."
+vanessa "Really ? That's fucking convincing !"
+kyoko a_8 "Listen up idiot ! I got close to spend the eternity inside of a fucking puppet while nobody would have never suspect anything !"
+vanessa a_3 "..."
+kyoko "I managed to got out, and I also fucking managed to give you back your memories because I know you would have hate being this twerp !"
+kyoko "And I also did that while the new Vanessa is nice with everyone !"
+kyoko "So choose wisely your words, and fucking think twice before answering that, okay ?"
+"I saw some people looking at us, I don't think Kyoko is the kind of screaming at people."
 
 
 
