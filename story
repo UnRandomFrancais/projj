@@ -217,8 +217,17 @@ hide toriGhost with easeoutright
 scene black with fade
 "Vanessa ... where are you ..."
 "Where would Kiyoshi go during break ?"
-"Let's try the exterior ..."
+"Let's try the schoolyard ..."
 scene bg school exterior day
+show toriGhost a_0 at right, faceleft with dissolve
+"Mmmh ..."
+show toriGhost a_1
+think "Bingo !"
+show kyoko b_0 at center, faceleft
+show vanessa a_1 at centerleft, faceright
+with dissolve
+think "She is alone with Kyoko, good !"
+possess tori kyoko b_8
 
 
 
