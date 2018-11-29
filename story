@@ -139,6 +139,9 @@ irene "I ... I guess ..."
 irene a_6 "But wait ! You called me Irene ? You ..."
 tori "Yeah, that's me. I got your body. What happened ? You are shaking !"
 irene a_5 "I ... I went here and I surprised Jack fingering himself in your body ..."
+with vpunch
+tori b_10 "SERIOUSLY ?"
+irene "Y-Yeah ... He threatened me ... You ... Your body is goddamn scary when the one inside is angered ..."
 
 
 
