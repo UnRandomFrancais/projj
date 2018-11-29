@@ -188,6 +188,37 @@ show toriGhost a_0 at centerright, faceleft with dissolve
 hide tori
 show cornelia b_4 at centerright, faceleft
 show toriGhost a_0 at right with move
+"I saw that Irene was worried and hesitating. She wanted to know, but was also afraid of the answer ... or not."
+irene "C-Cornelia ?"
+pause 1
+cornelia b_2 "U-Uh ?"
+irene b_0 "I-It's really you ?"
+cornelia "I-Irene ? What happened ?"
+show toriGhost b_1 at faceleft
+think "That's how it works then ..."
+irene "Tori is starting to fixing everything that happened. You are Yui now."
+cornelia "I-I'm ..."
+show cornelia a_4:
+  linear 0.8 xalign 0.45
+cornelia "Irene ! I'm so sorry ! I swear I didn't wanted to ..."
+irene "It's ok Cornelia ... Tori explained me the whole story, I'm not mad at you."
+cornelia a_5 "..."
+cornelia a_6 "But Tori made everything up, no ?"
+irene "Not exactly ..."
+hide irene
+hide yui
+with easeoutleft
+irene "That's a long story ..."
+think "..."
+think "Cornelia isn't that bad actually ..."
+think "I hope she'll start to get away from Sayaka."
+think "Even if her neither must also be more cool ..."
+hide toriGhost with easeoutright
+scene black with fade
+"Vanessa ... where are you ..."
+"Where would Kiyoshi go during break ?"
+"Let's try the exterior ..."
+scene bg school exterior day
 
 
 
