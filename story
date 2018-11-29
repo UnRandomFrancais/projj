@@ -90,7 +90,15 @@ hide irene
 with easeoutright
 scene black with fade
 "I taught the lesson. But it was far from what I was remembering in Ms Davis memories."
+scene bg classroom 1
+show carrie a_3 at center, faceright with dissolve
 "{q}Vanessa{/q} was fully listening for once, working seriously and asking questions."
+hide carrie with dissolve
+show jack a_2 at center, faceright with dissolve
 "Meanwhile, {q}Tori{/q} at her side, couldn't stop being direspectful and insulting anyone standing around."
-"Even with the reputation I have, I would have never done half of what he did during this class. What a fucking jerk."
-
+"Even with the reputation I have, I would have never done half of what he did during this class."
+"He even left in the middle of the class, saying I was a shit teacher."
+"What a fucking jerk."
+hide jack with dissolve
+show tori b_0 at centerright, faceleft with dissolve
+"Once the class was over, Irene blinked at me and went straight into
