@@ -179,7 +179,15 @@ tori "She is either inside of you, either inside of Yui's body."
 irene b_0 "And how do we know ?"
 tori "To get Vanessa back, I'm gonna leave Yui's body. If it stands and talk, it's Cornelia. If she it doesn't react, she is with you."
 irene "..."
-
+tori "I'm gonna do it right now since it's the break. Allison is waiting for you in class with Ms Davis."
+irene "Right ... Thanks a lot Tori. If you need anything ..."
+tori "I'll tell you anyway if I change of body. You are the only one who knows everything ..."
+irene "Good luck ..."
+body cornelia yui uniform
+show toriGhost a_0 at centerright, faceleft with dissolve
+hide tori
+show cornelia b_4 at centerright, faceleft
+show toriGhost a_0 at right with move
 
 
 
