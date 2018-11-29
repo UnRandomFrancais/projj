@@ -262,8 +262,13 @@ vanessa a_3 "..."
 tori "I managed to got out, and I also fucking managed to give you back your memories because I know you would have hate being this twerp !"
 tori "And I also did that while the new Vanessa is nice with everyone !"
 tori "So choose wisely your words, and fucking think twice before answering that, okay ?"
+show tori b_7
 "I saw some people looking at us strangely, I don't think Kyoko would be screaming at people."
 "She stared at me for long seconds."
-
+vanessa a_3 "You ... You really did that ... for me ?"
+tori b_0 "Yes I did. Everything is true."
+vanessa "..."
+vanessa "What really happened actually ?"
+"I told her everything she had to know, the doll, the people she swapped, how hard it was ..."
 
 
