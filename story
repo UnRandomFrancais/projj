@@ -18,3 +18,10 @@ hide tori with easeoutleft
 "Yeah, enjoy this evening ... That'll be your last as Vanessa."
 title "The next day ..."
 scene bg main kitchen day
+outfit tori suit
+show tori b_2 at center, faceright
+"Hmpf ... How boring it is to be that old ... Gotta prepare everything for John and to wake him up, from what I see in her memories ..."
+"And Carrie saying that he is more mature than I might think. Ha !"
+"You are also a kid after all, deeply inside of you."
+show tori b_2 at faceleft
+tori "John ! I'm out ! Move your ass to school, there won't be any reminder !"
