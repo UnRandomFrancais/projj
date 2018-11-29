@@ -228,6 +228,11 @@ show vanessa a_1 at centerleft, faceright
 with dissolve
 think "She is alone with Kyoko, good !"
 possess tori kyoko b_8
+pause 1
+"..."
+think "No time to waste."
+show pentagram at center
+tori "Remember who you were."
 
 
 
