@@ -13,4 +13,12 @@ show carrie a_6:
   repeat
 "I saw this Carrie girl with a knife, while John was holding her back, with Vanessa totally shook."
 carrie "YOU FUCKING BITCH ! YOU STOLE MY LIFE AND MY JOHN ! GIVE THEM BACK !"
-john 
+john "Kiyoshi, man ! What are you doing !? She did nothing !"
+vanessa "..."
+carrie "GIVE THEM BACK ! GIVE THEM BACK ! GIVE THEM BACK !"
+show tori b_6:
+  linear 0.5 xalign 0.50
+show carrie a_3 at faceleft, anim_fall_over_right
+show tori b_6 at centerright, faceleft
+
+"Atleast, I can knock down people without getting in trouble."
