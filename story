@@ -20,5 +20,12 @@ show tori b_6:
   linear 0.5 xalign 0.50
 show carrie a_3 at faceleft, anim_fall_over_right
 show tori b_6 at centerright, faceleft
-
+"Once again, my reflexes went faster than my brain."
 "Atleast, I can knock down people without getting in trouble."
+john "W-Wow t-thanks Tori ..."
+vanessa b_6 "..."
+think "Vanessa still thinks I'm Jack."
+tori a_1 "You can chill V. It's me."
+vanessa "..."
+vanessa "I trust you, but I'd like a proof."
+john a_15 "E-Everything is okay ?"
