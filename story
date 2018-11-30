@@ -57,9 +57,26 @@ john a_0 "O-Okay then !"
 john a_2 "But what about him ?"
 tori a_8 "Ah yeah ... fuck ..."
 "I could also lock him in Mallory's office, but I don't want that sequestering people becomes a habit ..."
-
-
-
+"I'm not sure I have enough energy for a hypnosis neither. Transforming is too much demanding."
+"Also, I'd rather not tell the truth to John. That's bad, but Vanessa would dump him if John knows that Vanessa doesn't really love her."
+"And I'd like that Vanessa gives him a chance ... Seeing him protecting her confirms all the good I think about him."
+tori a_1 "Get to lunch. Imma deliver this crazy ass nerd to nursery. I'll say he missed a step in stairs."
+john "You sure it's a good idea ?"
+tori a_0 "If you have an other idea Mr Genius, don't hesitate to share it."
+john "..."
+tori "Then, that's set."
+"I carried him (or better say her) on my back, and went to the nursery."
+hide tori with easeoutright
+show john a_0 at faceleft
+john "Everything is okay ?"
+vanessa a_6 "I ... I think ..."
+john "..."
+hide vanessa
+hide john
+with easeoutright
+scene black with fade
+"I delivered him to Ms Reinhardt, telling her his head might have hit the floor, and I left."
+scene bg school passage day
 
 
 
