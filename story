@@ -45,3 +45,27 @@ vanessa "Yeah, yeah. We know."
 show tori b_4
 "I noticed that Vanessa was holding John's hand all along ..."
 "She was still under shock, but that's still something ..."
+"Now that the situation was calmed down ..."
+show tori blush a_7
+"I remembered that my mouth actually sucked Mallory's dick !"
+vanessa a_6 "You okay Tori ?"
+tori a_0 "No. Gotta get rid of a taste. Wanna move your fucking asses to lunch, or stay hidden there ?"
+john "It ... applies to me ?"
+show vanessa a_3
+tori a_1 "I didn't forbid you, dumbass."
+john a_0 "O-Okay then !"
+john a_2 "But what about him ?"
+tori a_8 "Ah yeah ... fuck ..."
+"I could also lock him in Mallory's office, but I don't want that sequestering people becomes a habit ..."
+
+
+
+
+
+
+
+
+
+
+
+
