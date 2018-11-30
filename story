@@ -20,6 +20,7 @@ show tori b_6:
   linear 0.5 xalign 0.50
 show carrie a_3 at faceleft, anim_fall_over_right
 show tori b_6 at centerright, faceleft
+show vanessa b_3
 "Once again, my reflexes went faster than my brain."
 "Atleast, I can knock down people without getting in trouble."
 john "W-Wow t-thanks Tori ..."
@@ -34,7 +35,13 @@ vanessa b_7 "... Fine."
 john a_15 "..."
 tori b_6 "Hey John. Instead of looking at me like I'm going straight out of a fucking UFO, would you not rather tell me what the fuck happened with that nerd ?"
 john "I-I don't know ! We were sat here with Vanessa, we wanted to have some spare time before lunch, and he went back with a knife, screaming and then you arrived."
+vanessa b_3 "He ... He almost stabbed me ..."
 tori b_0 "..."
 "Well, she is John's stalker with Vanessa's memories ... the hate of seeing John with someone else, plus the fact that she was with him so far, plus the hate of Vanessa being Kiyoshi ..."
-"She just totally lost it I guess ..."
-tori b_2 "I don't understand why he did that ..."
+"She just totally lost it I guess ... And she is actually a fucking danger."
+john b_2 "I don't understand why he did that ..."
+john "I know you don't really like him, but he isn't that ..."
+vanessa "Yeah, yeah. We know."
+show tori b_4
+"I noticed that Vanessa was holding John's hand all along ..."
+"She was still under shock, but that's still something ..."
